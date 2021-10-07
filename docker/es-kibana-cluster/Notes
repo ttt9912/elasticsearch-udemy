@@ -1,0 +1,5 @@
+----------------------------------
+Kibana ELASTICSEARCH_HOSTS
+----------------------------------
+- ELASTICSEARCH_HOSTS must be configured as environment variable
+- Using elasticsearch.hosts in kibana.yml does not work
